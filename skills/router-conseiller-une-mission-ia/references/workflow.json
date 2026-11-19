@@ -3,8 +3,8 @@
   "slug": "conseiller-une-mission-ia",
   "titre": "Conseiller une mission IA, de la découverte au plan de déploiement",
   "resume": "Neuf étapes de conseil pour une mission d'IA ou d'automatisation chez un client : trouver où l'IA aide, cadrer, diagnostiquer le travail réel et en écrire les exigences, optimiser le processus, choisir la stratégie, concevoir, chiffrer, puis spécifier et planifier, et, une fois la solution en service, mesurer le gain. Deux portes d'entrée : un besoin déjà nommé, ou aucun besoin et on découvre d'abord. C'est la porte du pack consultant IA : il tient l'état de la mission et le journal des décisions. En ligne, un agent mène ces étapes par écrit avec la personne ; le consultant relit le chiffrage, la spécification et le plan. Construire, tester et mettre en service passent au workflow « Implémenter l'IA en entreprise ».",
-  "commande": "/router-mission-ia",
-  "routeur": "router-mission-ia",
+  "commande": "/router-conseiller-une-mission-ia",
+  "routeur": "router-conseiller-une-mission-ia",
   "metiers": [
     "conseil"
   ],
@@ -13,7 +13,7 @@
   "mis_a_jour": "2026-11-10",
   "methode": {
     "titre": "Pack consultant IA",
-    "auteur": "Florent Maisoncelle (ZEROGRAVITY)",
+    "auteur": "Zero Gravity AI",
     "lien": "https://github.com/Gremelinn0/productivity-consultant-ia",
     "note": "Le pack tient la méthode (onze compétences et un routeur), avec son entretien guidé par IA, son module CRM et son module de déploiement d'un assistant IA ; les compétences d'autres éditeurs qu'il cite comme compagnons entrent à l'étape qui les appelle, une fois installées."
   },
@@ -315,6 +315,12 @@
               "nom": "bmad-architecture",
               "role": "autre choix",
               "pourquoi": "Quand l'option est un système de plusieurs pièces : le court document des règles qui doivent rester vraies pour tout ce qu'on construira ensuite.",
+              "maison": "creer-une-app"
+            },
+            {
+              "nom": "engineering:architecture",
+              "role": "autre choix",
+              "pourquoi": "Quand un seul choix d'architecture se pose : une décision courte, écrite avec ses options et sa raison, à garder au journal de la mission.",
               "maison": "creer-une-app"
             },
             {

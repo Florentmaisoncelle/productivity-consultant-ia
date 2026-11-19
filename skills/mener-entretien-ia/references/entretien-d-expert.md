@@ -8,7 +8,7 @@ Méthode inspirée de `expert-interviewing-mckinsey` (MichaelRochonnn, dépôt s
 
 ## Les étapes
 
-1. **Faire annoncer l'entretien par le responsable de la personne.** Un message de son supérieur (« Florent va vous poser quelques questions sur le suivi des devis, c'est utile pour l'équipe ») vaut mieux qu'une invitation d'un inconnu : la personne sait pourquoi on la sollicite et que sa réponse est attendue. Avec une IA, ce message précède le lien envoyé.
+1. **Faire annoncer l'entretien par le responsable de la personne.** Un message de son supérieur (« Notre consultant va vous poser quelques questions sur le suivi des devis, c'est utile pour l'équipe ») vaut mieux qu'une invitation d'un inconnu : la personne sait pourquoi on la sollicite et que sa réponse est attendue. Avec une IA, ce message précède le lien envoyé.
 2. **Préparer deux ou trois hypothèses**, avant d'ouvrir. Ce que les sources lues laissent penser (« les devis traînent à cause de la collecte d'informations »), écrit `[H]`, avec ce qui la ferait tomber. Elles servent à viser les questions, jamais à orienter la personne.
 3. **Du large au précis.** Une question ouverte d'abord (« racontez-moi la dernière fois que vous avez fait un devis »), puis des questions précises sur ce qui a été dit (« combien de temps, combien de fois par mois, avec quel outil ? »). Les questions viennent de la base ; seule leur forme change.
 4. **Demander des chiffres et des exemples réels.** La dernière fois, pas « d'habitude » ; un ordre de grandeur plutôt que « beaucoup ». Un chiffre dit de mémoire est `[H]`. Deux relances au plus par question.
