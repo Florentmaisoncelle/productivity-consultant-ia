@@ -10,7 +10,7 @@
   ],
   "moment": "demarrer",
   "dossier_etat": "mission/",
-  "mis_a_jour": "2026-11-19",
+  "mis_a_jour": "2026-11-20",
   "methode": {
     "titre": "Pack consultant IA",
     "auteur": "Zero Gravity AI",
@@ -246,6 +246,19 @@
               "nom": "consultant-ia:auditer-crm",
               "role": "par défaut",
               "pourquoi": "Comble un vide : aucune compétence publique n'audite un CRM sur quatre volets (automatisations et intégrations, données, ventes, tableaux de bord) pour rendre, en lecture seule, un bilan priorisé en annexe du diagnostic, puis les annexes du cahier des charges d'une mise en place ou d'une refonte."
+            }
+          ],
+          "reserve": []
+        },
+        {
+          "slug": "poser-le-contexte-de-donnees",
+          "titre": "Poser le contexte de données de l'entreprise",
+          "competences": [
+            {
+              "nom": "data:data-context-extractor",
+              "role": "par défaut",
+              "source": "Anthropic, anthropics/knowledge-work-plugins (36 000 étoiles, https://github.com/anthropics/knowledge-work-plugins)",
+              "pourquoi": "Écrit une fois le contexte de données de l'entreprise (tables, définitions, pièges) : les analyses et les requêtes qui suivent le relisent au lieu de le redécouvrir."
             }
           ],
           "reserve": []
@@ -802,6 +815,16 @@
         }
       ],
       "departement": "Mesurer"
+    }
+  ],
+  "agents": [
+    {
+      "slug": "releve-du-gain-chez-le-client",
+      "titre": "Relevé du gain chez le client",
+      "quand": "chaque mois après la mise en service",
+      "rend": "Le gain mesuré contre l'hypothèse de départ, avec l'écart et sa cause probable.",
+      "etat": "en pause",
+      "contrat": "routine/references/releve-du-gain-chez-le-client.md"
     }
   ]
 }
