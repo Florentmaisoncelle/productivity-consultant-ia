@@ -10,7 +10,7 @@
   ],
   "moment": "demarrer",
   "dossier_etat": "mission/",
-  "mis_a_jour": "2026-11-20",
+  "mis_a_jour": "2026-11-21",
   "methode": {
     "titre": "Pack consultant IA",
     "auteur": "Zero Gravity AI",
@@ -72,6 +72,12 @@
               "nom": "mckinsey-bcg-consulting:mckinsey-research-methodology",
               "role": "autre choix",
               "pourquoi": "Pour comprendre une entreprise vite : lire ses documents publics d'un oeil critique, repérer les chiffres qui détonnent, chercher les meilleures pratiques de son secteur. Écrite en chinois, tirée d'un livre.",
+              "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
+            },
+            {
+              "nom": "mckinsey-bcg-consulting:external-forces-analysis",
+              "role": "autre choix",
+              "pourquoi": "À prendre au démarrage de mission pour lire l'environnement externe du client, en complément de la recherche de marché par défaut qui reste centrée sur le marché. En anglais.",
               "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
             }
           ],
@@ -655,6 +661,12 @@
               "pourquoi": "Porte du kit des champions d'Anthropic : faire adopter l'outil par des relais dans les équipes ; il vit au workflow « Implémenter l'IA en entreprise » (étape 4).",
               "source": "Anthropic, anthropics/claude-plugins-official",
               "maison": "implementer-l-ia-en-entreprise"
+            },
+            {
+              "nom": "mckinsey-bcg-consulting:implementation-scaling-motivation-strategy",
+              "role": "autre choix",
+              "pourquoi": "À prendre pour préparer comment la solution s'étend dans l'entreprise et quel ressort tient dans la durée, là où change-request cadre surtout la demande de modification. En anglais.",
+              "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
             }
           ],
           "reserve": []

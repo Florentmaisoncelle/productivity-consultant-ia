@@ -10,7 +10,7 @@
  ],
  "moment": "demarrer",
  "dossier_etat": "",
- "mis_a_jour": "2026-11-20",
+ "mis_a_jour": "2026-11-21",
  "etapes": [
   {
    "n": 1,
@@ -88,6 +88,12 @@
        "pourquoi": "Pour ouvrir large avant de resserrer : plusieurs techniques d'idéation guidées, quand la structure ne vient pas.",
        "source": "BMAD, bmad-code-org/BMAD-METHOD (55 000 étoiles, https://github.com/bmad-code-org/BMAD-METHOD)",
        "maison": "cadrer-un-chantier"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:structured-problem-solving-mckinsey",
+       "role": "autre choix",
+       "pourquoi": "À prendre en premier pour construire l'arbre de questions et l'hypothèse de départ : elle donne les quatre méthodes de découpe et la règle d'arrêt (ne pas faire bouillir l'océan). En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
@@ -136,6 +142,12 @@
        "pourquoi": "Pour une étude de marché complète (taille, concurrents, clients) quand plusieurs hypothèses lourdes portent sur le marché.",
        "source": "BMAD, bmad-code-org/BMAD-METHOD (55 000 étoiles, https://github.com/bmad-code-org/BMAD-METHOD)",
        "maison": "cadrer-un-chantier"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:fact-based-research-mckinsey",
+       "role": "autre choix",
+       "pourquoi": "À prendre quand une réponse toute faite semble évidente : elle force à valider par des sources existantes et à accepter un résultat qui contredit l'intuition. En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
@@ -184,6 +196,12 @@
        "pourquoi": "Quand les options sont des pistes de produit ou d'offre : cadres d'idéation et mise en doute des idées reçues.",
        "source": "Anthropic, anthropics/knowledge-work-plugins (36 000 étoiles, https://github.com/anthropics/knowledge-work-plugins)",
        "maison": "conseiller-une-mission-ia"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:team-facilitation-mckinsey",
+       "role": "autre choix",
+       "pourquoi": "À prendre en séance avec des décideurs pour sortir des options variées avant d'en discuter une seule (post-it individuels, aucune évaluation immédiate). En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
@@ -251,6 +269,12 @@
        "pourquoi": "Pour un dossier détaillé par concurrent, à partir de leurs sites et de leurs prix.",
        "source": "Corey Haines, coreyhaines31/marketingskills (61 000 étoiles, https://github.com/coreyhaines31/marketingskills)",
        "maison": "poser-sa-strategie-marketing"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:3c-analysis-overlap-dynamics",
+       "role": "autre choix",
+       "pourquoi": "À prendre quand la question est où se placer face aux concurrents (zone vierge, zone disputée, zone sans demande), plutôt qu'un simple profil de concurrent. En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
@@ -293,6 +317,12 @@
        "pourquoi": "Reclasse une feuille de route par priorité, avec ce qui sort et pourquoi : pour trop d'initiatives à la fois.",
        "source": "Anthropic, anthropics/knowledge-work-plugins (36 000 étoiles, https://github.com/anthropics/knowledge-work-plugins)",
        "maison": "ameliorer-le-parcours-client"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:matrix-quadrant-decision-strategy",
+       "role": "autre choix",
+       "pourquoi": "À prendre quand le classement des initiatives doit aussi dire qui les porte (nous, l'équipe, un partenaire), pas seulement leur ordre de priorité. En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
@@ -420,6 +450,12 @@
        "pourquoi": "Pour rendre la note en document Word mis en forme.",
        "source": "Anthropic, anthropics/skills (197 000 étoiles, https://github.com/anthropics/skills)",
        "maison": "conclure-une-vente"
+      },
+      {
+       "nom": "mckinsey-bcg-consulting:executive-communication-integrity",
+       "role": "autre choix",
+       "pourquoi": "À prendre pour rédiger le résumé d'ouverture de la note (« si vous faites X, d'ici Y, Z change de tant ») avant le détail. En anglais.",
+       "source": "MichaelRochonnn, MichaelRochonnn/mckinsey-bcg-consulting"
       }
      ],
      "reserve": []
